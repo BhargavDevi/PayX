@@ -1,0 +1,14 @@
+[
+  {
+    "username": "2222",
+    "email": "123@gmail.com",
+    "password": "$2b$12$BeJDXjn7Kx2RDKQyqRU7VOQ64KXs9QActssbkrj7i/cvfeFv4gApa",
+    "fullName": "bhargav devi prasad",
+    "phone": "123456",
+    "id": "260f1488-7029-4153-8f46-1b391308200f",
+    "balance": "1000.00",
+    "isActive": true,
+    "isAdmin": false,
+    "createdAt": "2025-09-13T06:47:52.472Z"
+  }
+]
